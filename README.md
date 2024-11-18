@@ -4,4 +4,6 @@
 ![image](https://github.com/user-attachments/assets/1481b78d-f180-4c22-80c9-d1e6ac643a31)
 ![image](https://github.com/user-attachments/assets/4f64f406-b999-4eee-8a0c-84f56284e45b)
 
+Скрин pytest( так же хранится в results.txt):
+![image](https://github.com/user-attachments/assets/87244d0b-183f-4bb2-bf57-18bd7247e566)
 
